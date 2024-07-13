@@ -1,5 +1,5 @@
 ## Infastructure
-![AWS DESIGN ARCHITECTURE](/images/3/3.0/architechture.svg?featherlight=false&width=100pc)
+![AWS DESIGN ARCHITECTURE](architechture.svg?featherlight=false&width=100pc)
 RUN project terraform with command below
 1. Config aws credentials to excute manage resources via aws-cli and terraform
 
